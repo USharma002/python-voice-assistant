@@ -1,0 +1,12 @@
+google
+SpeechRecognition
+pyttsx3
+Wikipedia
+playsound
+requests
+ecapture
+wolframalpha
+google_trans_new
+win10toast
+gtts
+pywhatkit
