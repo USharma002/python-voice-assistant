@@ -19,4 +19,16 @@ A python voice assistant with some great features
 
 Either run 
 ```python -m pip install -r requirements.txt```
+
 Or run the setup.bat file
+
+
+# Features
+* Translate
+* Search Wiki
+* Play Youtube
+* Show notification
+* Check Weather
+* Add/Remove reponses without editing code
+* Solve mathematical questions
+* Open Gmail
