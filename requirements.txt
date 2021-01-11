@@ -10,3 +10,4 @@ google_trans_new
 win10toast
 gtts
 pywhatkit
+PyAudio
