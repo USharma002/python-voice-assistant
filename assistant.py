@@ -176,7 +176,7 @@ if __name__=='__main__':
             reset_response()
 
         elif statement == "load backup response":
-            load_backup
+            load_backup()
 
         elif statement.startswith("notify me after") and (statement.endswith("minutes") or statement.endswith("minute")):
             statement = statement.replace("notify me after", "")
